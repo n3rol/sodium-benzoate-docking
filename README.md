@@ -13,11 +13,11 @@ Does sodium benzoate cause ocular toxicity in male and female Wistar rats, and d
 
 **In vivo**
 - Wistar rats, both sexes, 4 per group for oth sexes(control, low dose, high dose);(one control male escaped it's enclosure during week 3 of administration and was not recovered; no termina data was obtained.
-- GFAP measured by ELISA in eye tissue.
+- GFAP (glial fibrillary acidic protein) measured by ELISA in eye tissue.
 
 ## Results
 - Sodium benzoate showed weak binding scores across all targets (Lysozyme: -3.74kcal/mol, Rhodopsin: -4.54kcal/mol, and PSD-95: -4.05kcal/mol)
-- GFAP showed a dose dependent increase in both sexes, including sex-dependent differences withthe males have a higher absolute increase at all dose levels compared to the females.
+- GFAP showed a dose dependent increase in both sexes, including sex-dependent differences withthe males have a higher absolute increase at all dose levels compared to the females, which is consistent with glial activation, suggesting occular stress or toxicity.
 
 ## Limitations
 - Weak docking scores, so binding is unlikely to be strong.
