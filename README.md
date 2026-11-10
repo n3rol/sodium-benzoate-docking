@@ -1,6 +1,6 @@
 # In Vivo and In Silico Evaluation of Sodium Benzoate Induced Ocular Toxicity In Male and Female Wistar Rats
 ## Question
-Can sodium benzoate bind and potentially inhibit lysozyme, PSD-95 and rhodopsin, and does it affect GFAP in the rat eye?
+Does sodium benzoate cause ocular toxicity in male and female Wistar rats, and do the effects differ by sex? Can molecular docking against ocular proteins (lysozyme, PSD-95 and rhodopsin) help explain any interactions?
 ## Methods
 **In silico (MOE)**
 - Prepared structures: QuickPrep, energy minimization, protonation, removed waters and extra chains.
